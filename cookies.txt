@@ -2,11 +2,20 @@
 # https://curl.haxx.se/rfc/cookie_spec.html
 # This is a generated file! Do not edit.
 
+.google.com	TRUE	/verify	TRUE	1760793174	SNID	ACT1_oMj7ONUFgMPy4QOTIIfrFgR3vaYJcPDI4mTHuhRTcXlqzgHNUzpU0Y1FABH5kbLuqvpyjhTtFTzEURgMxmDaElIEOEt0w
+www.wikipedia.org	FALSE	/	TRUE	1747809511	WMF-Last-Access	18-Apr-2025
+.wikipedia.org	TRUE	/	TRUE	1747809511	WMF-Last-Access-Global	18-Apr-2025
+.wikipedia.org	TRUE	/	TRUE	0	GeoIP	IN:MH:Mumbai:19.07:72.89:v4
+www.wikipedia.org	FALSE	/	TRUE	1744985570	NetworkProbeLimit	0.001
+.google.com	TRUE	/	TRUE	1760533973	AEC	AVcja2eFb5TbOh9UKcjAUD_1iW0Pk-rgfVCjyDxCGO9LPxEjcqY9ldLQlWg
+.google.com	TRUE	/	TRUE	1760793174	NID	523=XjWTZunUWqnmXd65qJGsGTZVpWcDVHFdj-4HxmvfvD5QDRJqQ7WKxlTYeM4N8Ey_fi54SR_7J5jKDqjBp26WrHVCiHMWPO3kwcZcoakQQVK_Zla83nWTCJQaW6I4vNrjt2-vK3zdaWkXe81G1Sr54d5svExbSoyuTdb_yQuvOX4JACcR3h9Sb7oNwSv9c2W_CNSRcpdJumPqglPj0rzZiywQvzzADscJ-PcKu4WgnrKSwflp7-MShvyj1-vcuAvQzpifMluWsePD
 .youtube.com	TRUE	/	TRUE	0	YSC	XwdSfVsnUn0
 .youtube.com	TRUE	/	TRUE	1760533976	__Secure-ROLLOUT_TOKEN	COLx58eop63qzAEQlp3DttThjAMYi8jPttThjAM%3D
-.youtube.com	TRUE	/	TRUE	1760533976	VISITOR_INFO1_LIVE	0JjLOqmSveY
-.youtube.com	TRUE	/	TRUE	1760533976	VISITOR_PRIVACY_METADATA	CgJJThIEGgAgIg%3D%3D
+.youtube.com	TRUE	/	TRUE	1760534783	VISITOR_INFO1_LIVE	0JjLOqmSveY
+.youtube.com	TRUE	/	TRUE	1760534783	VISITOR_PRIVACY_METADATA	CgJJThIEGgAgIg%3D%3D
 .youtube.com	TRUE	/	TRUE	1744983776	GPS	1
-.youtube.com	TRUE	/	TRUE	1779541985	PREF	f6=40000000&tz=Asia.Kolkata&f7=100
+.youtube.com	TRUE	/	TRUE	1779542790	PREF	f6=40000000&tz=Asia.Kolkata&f7=100
 .youtube.com	TRUE	/	FALSE	1744981992	ST-1pon1vi	csn=OkWzXYTp0elNqk_a&itct=CJsBEPxaGAAiEwisuJO61OGMAxVcJYMDHYAnNg4yBnNlYXJjaFIVMiBnaG9kZSBtYXNvb20gc2hhcm1hmgEDEPQk
-.youtube.com	TRUE	/	FALSE	1744981998	ST-ndbada	csn=e7qPz9i9nCgDSsOX&itct=CIsBEPxaGAAiEwj7lv661OGMAxWzhksFHZi5E6UyB3JlbGF0ZWRInva6_YnH7NxRmgEFCAEQ-B0%3D
+.youtube.com	TRUE	/	FALSE	1744982542	ST-ndbada	csn=e7qPz9i9nCgDSsOX&itct=CIsBEPxaGAAiEwj7lv661OGMAxWzhksFHZi5E6UyB3JlbGF0ZWRInva6_YnH7NxRmgEFCAEQ-B0%3D
+www.google.com	FALSE	/	FALSE	1744983382	DV	wyDbk5TxioMZcNh6fbLcG-gGBkORZBk
+.youtube.com	TRUE	/	FALSE	1744982797	ST-1cfthh1	csn=xDjm0fYkiEBpUFez&itct=CD8Q_FoiEwi8mM631-GMAxWuSl4EHSIfNewyCmctaGlnaC1yZWNaD0ZFd2hhdF90b193YXRjaJoBBhCOHhieAQ%3D%3D
