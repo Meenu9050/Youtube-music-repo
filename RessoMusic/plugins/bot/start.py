@@ -1,4 +1,4 @@
-# Powered By Team DeadlineTech
+# Powered By Team RessoMusic
 
 import time
 
@@ -8,10 +8,10 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 from youtubesearchpython.__future__ import VideosSearch
 
 import config
-from DeadlineTech import app
-from DeadlineTech.misc import _boot_
-from DeadlineTech.plugins.sudo.sudoers import sudoers_list
-from DeadlineTech.utils.database import (
+from RessoMusic import app
+from RessoMusic.misc import _boot_
+from RessoMusic.plugins.sudo.sudoers import sudoers_list
+from RessoMusic.utils.database import (
     add_served_chat,
     add_served_user,
     blacklisted_chats,
@@ -19,9 +19,9 @@ from DeadlineTech.utils.database import (
     is_banned_user,
     is_on_off,
 )
-from DeadlineTech.utils.decorators.language import LanguageStart
-from DeadlineTech.utils.formatters import get_readable_time
-from DeadlineTech.utils.inline import help_pannel, private_panel, start_panel
+from RessoMusic.utils.decorators.language import LanguageStart
+from RessoMusic.utils.formatters import get_readable_time
+from RessoMusic.utils.inline import help_pannel, private_panel, start_panel
 from config import BANNED_USERS
 from strings import get_string
 
@@ -152,3 +152,4 @@ async def welcome(client, message: Message):
                 await message.stop_propagation()
         except Exception as ex:
             print(ex)
+
